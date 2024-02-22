@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vaulinv
+build_property.ProjectDir = C:\Users\ht3019128\Documents\Repositories\Vaulinv\Vaulinv\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Controls/DateTimePicker.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Controls.DateTimePicker.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\DateTimePicker.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\DateTimePicker.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Views/EventsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Views.EventsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EventsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EventsPage.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Views/NewEventPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Views.NewEventPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NewEventPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NewEventPage.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Views/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Views.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SearchPage.xaml
+
+[C:/Users/ht3019128/Documents/Repositories/Vaulinv/Vaulinv/Views/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Vaulinv.Views.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SettingsPage.xaml
